@@ -52,5 +52,5 @@ def frenchToEnglish(frenchText):
     englishText = the_first_translation['translation']
     return englishText
 
-print(englishToFrench("Dogs guide the blind"))
-print(frenchToEnglish("Chiens guide les aveugles"))
+#print(englishToFrench("Dogs guide the blind"))
+#print(frenchToEnglish("Chiens guide les aveugles"))
